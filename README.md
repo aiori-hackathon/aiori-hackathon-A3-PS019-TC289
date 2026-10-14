@@ -37,3 +37,8 @@ PrivacyLens is an enterprise privacy compliance and automated personal data disc
 - **Visualizations**: Recharts (Pie, Bar, Risk Distribution)
 - **Parsing**: PapaParse, SheetJS (`xlsx`)
 - **Crypto**: Native Web Crypto API (SHA-256)
+
+## Video Demonstration
+
+[Click here to watch our project video on YouTube] (https://youtube.com/shorts/mwk5MaEt0qk?si=OJlLA5fmndZ-4mBp)
+
